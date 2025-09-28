@@ -15,7 +15,7 @@ permissions:
 
 env:
   NORTHSTAR_VERSION: ${{ github.ref_name }}
-  DISCORD_RPC_VERSION: v13
+  DISCORD_RPC_VERSION: v14
 
 jobs:
   build-northstar:
